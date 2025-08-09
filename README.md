@@ -30,7 +30,14 @@ A powerful, user-friendly WebSocket testing application built with Flutter and S
 
 ## 📱 Screenshots
 
-> *Note: Add screenshots of your app here when you have them ready*
+<div align="center">
+
+### Main Interface
+![Socketation Main Interface](assets/screenshots/img.png)
+*Clean, intuitive interface for WebSocket testing with connection controls, event management, and real-time messaging*
+
+</div>
+
 
 ## 🛠️ Installation
 
@@ -244,9 +251,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help:
 
-- 📧 **Email**: your.email@example.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/socketation/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/socketation/discussions)
+- 📧 **Email**: info@ibrahimmakary.dev
+- 🐛 **Issues**: [GitHub Issues](https://github.com/Ibrahimmakary/socketation/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/Ibrahimmakary/socketation/discussions)
 
 ---
 
